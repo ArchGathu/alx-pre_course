@@ -1,6 +1,2 @@
 #!/bin/bash
-echo ALX
-
-cd ..
-pwd
-^C
+echo ALX school is so cool
